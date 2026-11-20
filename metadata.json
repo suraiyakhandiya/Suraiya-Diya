@@ -1,0 +1,6 @@
+{
+  "name": "HisabPro",
+  "description": "Dual Bangla-English financial management, automated P&L, inventory control, and bank-ready credit scoring platform for Bangladesh's 8M CMSMEs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
